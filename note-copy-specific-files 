@@ -1,0 +1,6 @@
+1. create directory structure in dest folder
+2. copy files from source to dest
+3. traverse thru dest and remove corresponding files from source. (our source folder will be populated during the time we are running this script.)
+
+3rd step will ensure that we are deleting only those files from source which are copied in the dest folder. 
+If we don't do this.. there is a chance of loosing data(since beam will be dumping data many times while running our script). hence no gaurantee, REMEMBER : ANYTHING WHICH IS NOT GAURANTEED IS USELESS. 

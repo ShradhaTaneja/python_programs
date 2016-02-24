@@ -4,3 +4,5 @@
 
 3rd step will ensure that we are deleting only those files from source which are copied in the dest folder. 
 If we don't do this.. there is a chance of loosing data(since beam will be dumping data many times while running our script). hence no gaurantee, REMEMBER : ANYTHING WHICH IS NOT GAURANTEED IS USELESS. 
+
+# extra comment

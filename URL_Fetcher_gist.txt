@@ -1,0 +1,6 @@
+## This file contains the link for another script - URL Fetcher
+
+## URL Fetcher fetches all the URLs available on given URL and then, fetches their HTTP statuses along with destination URLs if HTTP status equals to 301 or 302. The output is stored in a CSV/XLS file.
+
+README.MD for this script can be found at https://gist.github.com/ShradhaTaneja/260f0a4fd00b247aedf150c3c5de4bab
+url_fetcher.py script can be found at https://gist.github.com/ShradhaTaneja/23e69d24d9680eb843f512e4f60a8b1b
